@@ -1,0 +1,51 @@
+§c===========EasyAuth===========
+§a1./eauth reg
+§e功能: 开放/关闭注册功能
+§e权限: OP&控制台
+§a2./eauth pwd
+§e功能: 修改密码
+§e权限: 所有人
+§e当前玩家: /eauth pwd [密码]
+§e控制台: /eauth pwd [玩家名] [密码]
+§a3./eauth setspawn
+§e功能: 设置当前位置为进服出生点
+§e权限: OP
+§a4./eauth ver
+§e功能: 查看插件版本
+§a5./eauth list
+§e功能: 玩家信息列表
+§e权限: 控制台
+§a6./eauth mail [邮箱地址]
+§e功能: 绑定密保邮箱,只能绑定一次,如需更改请找服主
+§e权限: 仅玩家
+§a7./eauth reload
+§e功能: 重新加载配置文件
+§e权限: OP&控制台
+§a8./eauth delete [玩家名]
+§e功能: 删除指定玩家账号信息
+§e权限: 控制台
+§a9./eauth clean [day]
+§e功能: 删除长时间未登录玩家账号信息
+§e权限: 控制台
+§a10./eauth disable
+§e功能: 进入维护模式
+§e权限: 控制台
+§a11./eauth cname [新玩家名]
+§e功能: 修改当前玩家名
+§e权限: 仅玩家
+§a12./eauth check [玩家名]
+§e功能: 查找与该玩家有关联的所有小号
+§e权限: 仅控制台
+§a13./eauth cleanup
+§e功能: 删除所有未注册但有数据的账号
+§e权限: 仅控制台
+§a14./eauth ban add [玩家名]
+§e功能: 超级封禁
+§e权限: 控制台
+§a15./eauth ban remove [事件id]
+§e功能: 解除超级封禁
+§e权限: 控制台
+§a16./eauth ban check
+§e功能: 查看超级封禁列表
+§e权限: 控制台
+§c===========EasyAuth===========

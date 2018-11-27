@@ -1,0 +1,7 @@
+name: EasyAuth
+main: lakwsh\EasyAuth\EasyAuth
+version: Final
+api: [1.12.0, 2.0.0, 3.0.0, 3.0.0-ALPHA4, 3.0.0-ALPHA8, 3.0.0-ALPHA10, 3.0.0-ALPHA11, 3.0.0-ALPHA12, 3.0.0-ALPHA13, 3.0.0-ALPHA14, 3.0.0-ALPHA15, 3.0.0-ALPHA16, 3.0.1, 4.0.0]
+load: STARTUP
+author: lakwsh
+website: https://lakwsh.net
